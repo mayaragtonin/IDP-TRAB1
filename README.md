@@ -1,8 +1,10 @@
 # Energia Eólica no Brasil
 
 ## Business Model Canvas
-- Print do repositório
-- Link para o Canvas
+- Cama de gato: https://github.com/mayaragtonin/IDP-TRAB1/blob/main/CamaDeGatoEnergiaEo%CC%81lica.pdf
+- Print:
+- Canvas:
+- Print:
 
 ## Futurismo
 - Link para o Vídeo (explicando tendências e mercado)

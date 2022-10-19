@@ -9,7 +9,7 @@
 - Print:
 
 ## Explicando o mercado
-- Link para o Vídeo (explicando tendências e mercado)
+- Vídeo: https://drive.google.com/file/d/17Z1D4_kBWH2chcRyPtQEjQlqWm_U8FWI/view?usp=sharing
 
 ## Bancos de dados
 - MME: https://www.gov.br/mme/pt-br

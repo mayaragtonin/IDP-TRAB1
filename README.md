@@ -13,11 +13,11 @@
 - Vídeo: https://drive.google.com/file/d/17Z1D4_kBWH2chcRyPtQEjQlqWm_U8FWI/view?usp=sharing
 
 ## Bancos de dados
-- MME: https://www.gov.br/mme/pt-br
-- ANEEL: https://www.gov.br/aneel/pt-br
-- EPE: https://www.epe.gov.br/pt
-- CCEE: https://www.ccee.org.br/
-- ABEEÓLICA: https://abeeolica.org.br/
+- Ministério de Minas e Energia: https://www.gov.br/mme/pt-br
+- Agência Nacional de Energia Elétrica: https://www.gov.br/aneel/pt-br
+- Empresa de Pesquisa Energética: https://www.epe.gov.br/pt
+- Câmara de Comercialização de Energia Elétrica: https://www.ccee.org.br/
+- Associação Brasileira de Energia Eólica: https://abeeolica.org.br/
 
 ## Contribuição de colegas
 - Lucas Bittencourt

@@ -5,7 +5,7 @@
 - Print:
 
 ## Business Model Canvas
-- Canvas:
+- Canvas: https://next.canvanizer.com/canvas/rnzGv5zSfrD3g
 - Print:
 
 ## Explicando o mercado

@@ -18,5 +18,5 @@
 - CCEE: https://www.ccee.org.br/
 - ABEEÓLICA: https://abeeolica.org.br/
 
-## Contribuição no repositório do colega
-Link:
+## Contribuição de colegas
+- Lucas Bittencourt

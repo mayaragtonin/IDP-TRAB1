@@ -1,11 +1,11 @@
 # Energia Eólica no Brasil
 
 ## Cama de gato
-- Cama de gato: https://github.com/mayaragtonin/IDP-TRAB1/blob/main/CamaDeGatoEnergiaEo%CC%81lica.pdf
+- Link:
 - Print:
 
 ## Business Model Canvas
-- Canvas: https://next.canvanizer.com/canvas/rnzGv5zSfrD3g
+- Link: https://next.canvanizer.com/canvas/rnzGv5zSfrD3g
 - Print:
 
 ## Explicando o mercado

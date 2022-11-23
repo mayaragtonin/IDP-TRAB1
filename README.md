@@ -22,3 +22,6 @@
 ## Contribuição de colegas
 - Lucas Bittencourt
 - Como a ANEEL e outros órgãos governamentais do setor poderiam promover o incentivo de investimento através dos mercados regulados ACR e ACL de modo a favorecer a expansão da energia eólica no Brasil.
+
+## Análise de dados
+- Link do GoogleColab: https://colab.research.google.com/drive/1hqMi1TJVCvGI0HfouS969oNnLlbIslE6?usp=sharing

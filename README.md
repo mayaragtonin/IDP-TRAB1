@@ -26,3 +26,4 @@
 ## Análise de dados
 - Link do GoogleColab: https://colab.research.google.com/drive/1hqMi1TJVCvGI0HfouS969oNnLlbIslE6?usp=sharing
 - Os dados mostram que há muito espaço para o crescimento da fonte eólica.
+![figura](https://github.com/mayaragtonin/IDP-TRAB1/blob/main/grafico.png)
